@@ -5,7 +5,7 @@ date: "November 28, 2016"
 output: html_document
 ---
 
- The Code Book<br/>
+ <h2>The Code Book</h2><br/>
 
 This code book summarizes the resulting data fields in tidy_Data.txt.<br/>
 
